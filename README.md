@@ -16,7 +16,7 @@ El 905 de las brechas de ciberseguridad inician con un error humano. Este proyec
    * **Formato:** Infografía de alto impacto, alineada visualmente a la imagen corporativa de la empresa.
    * **Propósito:** Capacitación visual rápida sobre qué es el Phishing, cuales son las alertas básicas y que hacer en caso de detectarlo.
 
-![Infografía Anti-Phishing Aura Motors](INFOGRAFIAPHISHING.png)
+![Infografía Anti-Phishing Aura Motors](INFOGRAFIA-PHISHING.png)
 
 La infografía se enfoca en presentar 3 pilares de detección comunes, sugeridos como cuestionamientos personales que puede realizarse el usuario que recibe el correo malicioso:
    * Validación de datos: Identificación de solicitud e información sensible
